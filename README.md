@@ -8,15 +8,15 @@
 
 # Usage   
 •Run Development Server with npm start
-•App will load in browser on localhost:3000
-•Search GitHub user by user name
+•App will load in browser on localhost:3000  
+•Search GitHub users by user name
 
 # Tasks Performed  
 ### •Implemented Functional Components   
 •Refactored class-based components
 •Eliminated prop-drilling by implementing hooks 
 ### •Retrived User Data and Repos via GitHub API 
-•Made asychronous HTTP Requests for users and repos
+•Made asynchronous HTTP Requests for users and repos
 ### •Implemented App-Level State handling via Context API  
 •Created centralized state controller dispatched via Context
 •Utilized useReducer hook to consolidate state-change logic
