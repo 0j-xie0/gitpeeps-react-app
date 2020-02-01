@@ -3,7 +3,7 @@
 # Installation   
 •Install NodeJS v12.x.x   
 •Clone this repo to your computer    
-•Navigate to local repo directory gitpeeps-react-app
+•Navigate to local repo directory gitpeeps-react-app  
 •Install the required dependecies with: npm install
 
 # Usage   
