@@ -7,7 +7,7 @@
 •Install the required dependecies with: npm install
 
 # Usage   
-•Run Development Server with npm start
+•Run Development Server with npm start  
 •App will load in browser on localhost:3000  
 •Search GitHub users by username
 
@@ -20,5 +20,5 @@
 •Dispatched Payload to Context
 ### •Implemented App-Level State handling via Context API  
 •Created centralized State Controller  
-•Distribute State Value to requisite components
+•Distribute State Value to requisite components  
 •Utilized useReducer hook to consolidate State-Change logic
